@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\C#(PCIS)\Lab1\bin\Debug\net9.0\Lab 1.exe
+C:\Users\Alex\Desktop\C#(PCIS)\Lab1\bin\Debug\net9.0\Lab 1.deps.json
+C:\Users\Alex\Desktop\C#(PCIS)\Lab1\bin\Debug\net9.0\Lab 1.runtimeconfig.json
+C:\Users\Alex\Desktop\C#(PCIS)\Lab1\bin\Debug\net9.0\Lab 1.dll
+C:\Users\Alex\Desktop\C#(PCIS)\Lab1\bin\Debug\net9.0\Lab 1.pdb
+C:\Users\Alex\Desktop\C#(PCIS)\Lab1\obj\Debug\net9.0\Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\C#(PCIS)\Lab1\obj\Debug\net9.0\Lab 1.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\C#(PCIS)\Lab1\obj\Debug\net9.0\Lab 1.AssemblyInfo.cs
+C:\Users\Alex\Desktop\C#(PCIS)\Lab1\obj\Debug\net9.0\Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\C#(PCIS)\Lab1\obj\Debug\net9.0\Lab 1.dll
+C:\Users\Alex\Desktop\C#(PCIS)\Lab1\obj\Debug\net9.0\refint\Lab 1.dll
+C:\Users\Alex\Desktop\C#(PCIS)\Lab1\obj\Debug\net9.0\Lab 1.pdb
+C:\Users\Alex\Desktop\C#(PCIS)\Lab1\obj\Debug\net9.0\Lab 1.genruntimeconfig.cache
+C:\Users\Alex\Desktop\C#(PCIS)\Lab1\obj\Debug\net9.0\ref\Lab 1.dll
